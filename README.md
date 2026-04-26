@@ -1,4 +1,4 @@
-Tech Stack
+## Tech Stack
 
 --.NET 10
 --ASP.NET Core Minimal APIs
@@ -6,7 +6,7 @@ Tech Stack
 --PostgreSQL (via Npgsql)
 
 
-Features
+##Features
 
 --Add books to the library
 --Register members
