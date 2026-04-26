@@ -1,9 +1,9 @@
 ## Tech Stack
 
---.NET 10
---ASP.NET Core Minimal APIs
---Entity Framework Core
---PostgreSQL (via Npgsql)
+- .NET 10
+- ASP.NET Core Minimal APIs
+- Entity Framework Core
+- PostgreSQL (via Npgsql)
 
 
 ##Features
